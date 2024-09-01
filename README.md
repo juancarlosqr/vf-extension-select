@@ -13,5 +13,7 @@ Watch the walkthrough video here: https://www.youtube.com/watch?v=svFROugsCK0
 I build AI-powered customer experiences with Voiceflow
 
 👉 My Voiceflow Agency: https://moonside.ai
+
 👉 My Voiceflow Expert profile: https://www.voiceflow.com/contributors/juan-carlos-quintero
+
 👉 Let's work together: https://cal.com/moonside/discovery
